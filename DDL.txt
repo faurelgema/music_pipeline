@@ -1,0 +1,51 @@
+
+CREATE TABLE demo_music.m_songs (
+	code int4 NOT NULL,
+	original_artist varchar(255) NULL,
+	song_title varchar(255) NULL,
+	CONSTRAINT m_songs_pkey PRIMARY KEY (code)
+);
+
+CREATE TABLE demo_music.library_music_spotify (
+	isrc varchar(50) NOT NULL,
+	spotify_track_id varchar(50) NOT NULL,
+	track_name varchar(255) NOT NULL,
+	artist_name varchar(255) NOT NULL,
+	album_name varchar(255) NOT NULL,
+	release_date date NULL,
+	added_at timestamp DEFAULT CURRENT_TIMESTAMP NULL,
+	updated_at timestamp DEFAULT CURRENT_TIMESTAMP NULL,
+	CONSTRAINT library_music_spotify_pkey PRIMARY KEY (isrc, spotify_track_id)
+);
+
+
+
+CREATE TABLE demo_music.library_music_youtube (
+	video_id varchar(255) NOT NULL,
+	channel_id varchar(255) NOT NULL,
+	video_title text NOT NULL,
+	channel_title text NOT NULL,
+	added_at timestamp DEFAULT now() NOT NULL,
+	updated_at timestamp DEFAULT now() NOT NULL,
+	CONSTRAINT library_music_youtube_pkey PRIMARY KEY (video_id, channel_id)
+);
+
+
+
+CREATE TABLE demo_music.media_warehouse_raw (
+	code int4 NOT NULL,
+	video_id varchar(255) NOT NULL,
+	channel_id varchar(255) NOT NULL,
+	video_title text NOT NULL,
+	channel_title text NOT NULL,
+	isrc varchar(50) NOT NULL,
+	spotify_track_id varchar(50) NOT NULL,
+	spotify_track_name varchar(255) NOT NULL,
+	spotify_album varchar(255) NOT NULL,
+	spotify_release_date date NULL,
+	original_artist varchar(255) NULL,
+	song_title varchar(255) NULL,
+	added_at timestamp DEFAULT CURRENT_TIMESTAMP NULL,
+	updated_at timestamp DEFAULT CURRENT_TIMESTAMP NULL,
+	CONSTRAINT media_warehouse_raw_pkey PRIMARY KEY (code, video_id, spotify_track_id)
+);
