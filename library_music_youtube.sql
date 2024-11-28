@@ -1,0 +1,55 @@
+INSERT INTO demo_music.library_music_youtube (video_id,channel_id,video_title,channel_title,added_at,updated_at) VALUES
+	 ('cjcvk8guyuw','ucmdxliis5px5kokvafdw','naif  lagu wanita','ringgo lennon','2024-11-27 17:08:13.037326','2024-11-27 17:08:13.039523'),
+	 ('ghxqiittttu','ucmddacpva0ge79tcr2tjfqa','ape with ak47','apeswillrise','2024-11-27 17:08:13.310157','2024-11-27 17:08:13.310478'),
+	 ('auhe2df2f2k','ucbqw9axwizyjs0gvmuvcyra','ray sahrir  rasa yang salah  official music video','shelino music','2024-11-27 17:08:13.669178','2024-11-27 17:08:13.669511'),
+	 ('6h3guegecyc','ucqr9d20uqhzvzcvnogipgba','arsha composer feat gandan  selamat berbahagia dengannya official video','arsha composer','2024-11-27 17:08:13.922468','2024-11-27 17:08:13.922828'),
+	 ('qpqhpkveru0','ucnlu3osu8unjv9umbcpog','maizura  aku tanpamu official music video','musica studios','2024-11-27 17:08:14.331145','2024-11-27 17:08:14.331441'),
+	 ('aiqjcuq2sca','ucgd1r1vlrgxfk2c8wpg6mdg','rizky febian  berona official music video','rizkyfebianvevo','2024-11-27 17:08:14.786959','2024-11-27 17:08:14.787206'),
+	 ('i4fk3pgbgf0','ucv8vjz7slhqmyz21f49mmng','cya  39jbaml39 jangan buat aku menunggu lama mv','ticya','2024-11-27 17:08:14.935248','2024-11-27 17:08:14.935617'),
+	 ('vce5184ou','ucxr9jspowb062s0gunttopq','eleventwelfth feat asteriska  your head as my favourite bookstore official music video','eleventwelfth','2024-11-27 17:08:15.355144','2024-11-27 17:08:15.355392'),
+	 ('d7ftlr67hi','uck2vuwxgvwui6phthno5wa','batu giok perlu diasah  yi pu cuok pu jen ji','nada tao  topic','2024-11-27 17:08:15.74685','2024-11-27 17:08:15.747019'),
+	 ('8dobxuyf6uq','ucczrfk48npysio8qwthtmgw','sama','kemang 110','2024-11-27 17:08:15.930941','2024-11-27 17:08:15.931171');
+INSERT INTO demo_music.library_music_youtube (video_id,channel_id,video_title,channel_title,added_at,updated_at) VALUES
+	 ('px34m65nvg','ucaupwf0wqyzrhwqpnqouq','momonon  teh dingin official audio','momonon official','2024-11-27 17:08:16.392681','2024-11-27 17:08:16.392906'),
+	 ('wmwf72gigu','ucqopnktktktkmmfwrzzergq','ekspedisi 69','kelompok penerbang roket  topic','2024-11-27 17:08:16.586093','2024-11-27 17:08:16.586261'),
+	 ('akrtwizdoe','ucm6gjjvkeqwkxgrfsxoh86w','sinom serat sastra gendhing  damar murup','damar murup','2024-11-27 17:08:16.93169','2024-11-27 17:08:16.931963'),
+	 ('9twpgphmuky','ucn4t4uhyfzmh9dcggsadqag','mati rasa','brigita tan  topic','2024-11-27 17:08:17.092686','2024-11-27 17:08:17.092858'),
+	 ('udc81hdmui','uck2vuwxgvwui6phthno5wa','nyanyian kwan kong  kwan sen miau ce ke','nada tao  topic','2024-11-27 17:08:17.279109','2024-11-27 17:08:17.279386'),
+	 ('qinuay4b788','uclo7fjvpjt9sxc5ssos8kjw','risin39 black hole  don39t wanna lose you official music video','rpm music official','2024-11-27 17:08:17.72169','2024-11-27 17:08:17.72189'),
+	 ('btdegrbjzys','ucyda0rb88h2wzstomxea7cg','rendy pandugo  paper heart','rendypandugovevo','2024-11-27 17:08:17.932084','2024-11-27 17:08:17.932254'),
+	 ('6qdoprgjq6g','ucjlsu1nddwwybpayfsearkg','malam minggu di taman official audio','didit saad','2024-11-27 17:08:18.093665','2024-11-27 17:08:18.093834'),
+	 ('qed42lgioeq','uce0lacy30fky80j0bxd3da','gunawan  bintang tertutup awan  official music video','3d entertainment','2024-11-27 17:08:18.546073','2024-11-27 17:08:18.546278'),
+	 ('gogce2ri4l4','ucziaico7iifaqvy1rlf3zq','lockdown syndrome by mika rafello','mika rafello guitar','2024-11-27 17:08:18.96194','2024-11-27 17:08:18.962297');
+INSERT INTO demo_music.library_music_youtube (video_id,channel_id,video_title,channel_title,added_at,updated_at) VALUES
+	 ('fogb3yuhi','ucmb500u9ce6zdrnyvzriqeg','hujan','monkey to millionaire  topic','2024-11-27 17:08:19.180472','2024-11-27 17:08:19.180885'),
+	 ('bfbofnmmcc8','ucysf32u9ujeccrfzs5ia2cq','samsons  di ujung jalan official music video','samsons band','2024-11-27 17:08:19.6078','2024-11-27 17:08:19.608301'),
+	 ('umdj2kyoh6o','uc6nhb2p9tlbkd0kvizewwqw','figura renata  elegi official music video','figura renata','2024-11-27 17:08:19.863886','2024-11-27 17:08:19.864291'),
+	 ('iqjecxxbw','ucr8ubnbktvaa7trsuzzszrq','lagu kesepian','efek rumah kaca  topic','2024-11-27 17:08:20.06792','2024-11-27 17:08:20.068501'),
+	 ('bcikr1odlwy','ucpwoakgbmpgivhmcpnwwug','toton caribo  name up ft gervldo19xx official mv','toton caribo','2024-11-27 17:08:20.245523','2024-11-27 17:08:20.245853'),
+	 ('qu7bfeyilq','ucmcbs99t954qdeovyjtfq','chrisye feat element  suatu persembahan cinta','guanpetteson','2024-11-27 17:08:20.424197','2024-11-27 17:08:20.424576'),
+	 ('cexxezxtw','ucqlb1vxugwjzfjemfi2jdg','junno  gelisah official music video','vortumusik indonesia','2024-11-27 17:08:20.795033','2024-11-27 17:08:20.79547'),
+	 ('t1dvrcqlqgi','ucq46lkycfqrbtuptxuknrq','new west  those eyes lyrics','dan music','2024-11-27 17:08:21.002779','2024-11-27 17:08:21.003035'),
+	 ('iqo8wx0l0y','ucwmzdqv29ejbmpv9pwwazw','feast  nina official lyric video','feast','2024-11-27 17:08:21.22942','2024-11-27 17:08:21.229647'),
+	 ('9da1dulwlbm','ucxmjknvrcpzfvnh21kbihla','7 kurcaci  berakhir dengan senyuman official audio','7 kurcaci','2024-11-27 17:08:21.423098','2024-11-27 17:08:21.423492');
+INSERT INTO demo_music.library_music_youtube (video_id,channel_id,video_title,channel_title,added_at,updated_at) VALUES
+	 ('06uvskwx70m','ucsahfig1el6ldo8sjqphpq','careless 061  hidup','careless 061','2024-11-27 17:08:21.76869','2024-11-27 17:08:21.768983'),
+	 ('yg8j2mgoyy','ucjzcsfu4bewfbfuvqg3a','samsons  kenangan terindah official music video','samsonsvevo','2024-11-27 17:08:21.945676','2024-11-27 17:08:21.945961'),
+	 ('spfmkuxmx4o','ucujhhclgdn2s3vxucxrskq','danke par ale  ishak r toding  official music video','ishak r toding channel','2024-11-27 17:08:22.304781','2024-11-27 17:08:22.305178'),
+	 ('hvu8aaqbmpc','ucebb7o98fea73wjnscja5xg','naff  dosa apa  vc trinity','trinity optima production','2024-11-27 17:08:22.738168','2024-11-27 17:08:22.738604'),
+	 ('lrgfbhblcg','uctkvqhcrmgagszm5xgwg3q','lagu untuk anak anak di rumah saja   hoala amp koala  di rumah saja','hoala  koala  lagu anakanak indonesia','2024-11-27 17:08:22.935931','2024-11-27 17:08:22.93614'),
+	 ('fitoetkujs8','ucubxir0zn4v7gx0mhqjja','acoustrip tami aulia  tetaplah disini original song','tami aulia live acoustic','2024-11-27 17:08:23.342291','2024-11-27 17:08:23.342555'),
+	 ('jjryyztq22s','ucwa9ro7bzz9v4cn3rdrqg','yo ca kancah sholawat busyro','syubbanul muslimin  topic','2024-11-27 17:08:23.70571','2024-11-27 17:08:23.706065'),
+	 ('qj9wxtumnc','ucqww5u1hsqbunfrdgio6rqg','tak sanding sliramu  dhe baz ft levy berlia music video official','bangjoe 02','2024-11-27 17:08:23.887824','2024-11-27 17:08:23.888134'),
+	 ('f1qjsbuwtvu','uce0lacy30fky80j0bxd3da','ridwan lida  cinta apa adanya  official music video','3d entertainment','2024-11-27 17:08:24.286949','2024-11-27 17:08:24.287228'),
+	 ('9jjrazrtuou','ucebb7o98fea73wjnscja5xg','st12  putri iklan  official music video','trinity optima production','2024-11-27 17:08:24.51184','2024-11-27 17:08:24.512657');
+INSERT INTO demo_music.library_music_youtube (video_id,channel_id,video_title,channel_title,added_at,updated_at) VALUES
+	 ('ot7qdm6axq','uc17ilg5hpcwmrns1eocqelg','bigwave  bohong official music video','bahaya records','2024-11-27 17:08:24.921176','2024-11-27 17:08:24.921562'),
+	 ('sggzijwfk3m','ucnzfbkovkur5b9xxm5lycg','8ball ft meggie  jangan ragu','jack smile','2024-11-27 17:08:25.333571','2024-11-27 17:08:25.333823'),
+	 ('kfr2illan6u','uca36ommssium2rowhdo7gsa','api dan lentera','barasuara  topic','2024-11-27 17:08:25.501856','2024-11-27 17:08:25.502071'),
+	 ('yctzfdss7fu','uchkrjp5l2cod5qtnso8vw','raben ft astagah bonie  seperti hutan official','raben penyami','2024-11-27 17:08:25.704478','2024-11-27 17:08:25.704878'),
+	 ('t8ezustdjr0','uch52vetksw9qxmpexvlqg','yon koeswoyo  kan kusongsong hari esok','syauqi nur','2024-11-27 17:08:26.006326','2024-11-27 17:08:26.006714'),
+	 ('t28g31rdwbw','ucbr6t123iuqpf1ogmovdzq','aku baikbaik saja','the chronicles of happiness ride and services  topic','2024-11-27 17:08:26.389013','2024-11-27 17:08:26.389352'),
+	 ('pcdnmypbgqk','ucgadlc4ptyxxo5ea6jx1zja','serotonin 6am','indra7  topic','2024-11-27 17:08:26.748709','2024-11-27 17:08:26.749028'),
+	 ('lukaukxrpf8','ucgwyhqmf7hopvsbiigvtkmw','hivi  apa adanya official lyric video','hivi','2024-11-27 17:08:26.90434','2024-11-27 17:08:26.90455'),
+	 ('guigxq8sns8','ucgmiedt80qm38nht8pfgx1q','pablo 39la luna39 official mv','pablo','2024-11-27 17:08:27.313573','2024-11-27 17:08:27.314378'),
+	 ('owfuztb7fzq','uceypnkcje44hsihbb6pb3w','gangga  dreamin39 of you official music video','gangga','2024-11-27 17:08:27.511527','2024-11-27 17:08:27.511775');
